@@ -6,13 +6,14 @@ console.log(start);
 
 // En beskrivelse av en karakter
 
-let a = en variant av historien;
+let a = 10
 
-let b = en annen variant av historien;
+let b = 12
 
-let c = en siste variant av historien;
+let c = a + b
 
-console.log(a);
+
+console.log(c);
 
 let lisa = {
   name: 'lisa',
