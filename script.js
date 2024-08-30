@@ -1,16 +1,16 @@
-console.log('Hello!');
+
 
 let start = 'Det var en gang';
 
 console.log(start);
 
-// Dette er en kommentar
+// En beskrivelse av en karakter
 
-let a = 10;
+let a = en variant av historien;
 
-let b = 20;
+let b = en annen variant av historien;
 
-let c = 30;
+let c = en siste variant av historien;
 
 console.log(a);
 
