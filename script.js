@@ -39,3 +39,5 @@ if (lisa.alive) {
 }
 
 //(varierende alternativer-sant/ikke sant)
+
+let Comment = document.getElementById("Comment");
